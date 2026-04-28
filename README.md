@@ -22,16 +22,23 @@ This repository is built for **Shopify sellers, Amazon sellers, DTC brands, prod
 
 ---
 
+<!-- CLIPRISE_LINKING_START -->
 ## Related Cliprise GitHub resources
 
-- [Best AI Image Generator Resources](https://github.com/cliprise/best-ai-image-generator-resources)
-- [Awesome AI Image Generator Prompts](https://github.com/cliprise/awesome-ai-image-generator-prompts)
-- [Awesome Seedream 5 Prompts](https://github.com/cliprise/awesome-seedream-5-prompts)
-- [Awesome Nano Banana Pro Prompts](https://github.com/cliprise/awesome-nano-banana-pro-prompts)
-- [Awesome AI Product Video Prompts](https://github.com/cliprise/awesome-ai-product-video-prompts)
+- [Best AI image generator resources](https://github.com/cliprise/best-ai-image-generator-resources) - tested rankings, use-case fit, and editing paths for AI image generation.
+- [Awesome AI product video prompts](https://github.com/cliprise/awesome-ai-product-video-prompts) - demo, PDP, and e-commerce video oriented prompts.
+- [Awesome AI photo editor prompts](https://github.com/cliprise/awesome-ai-photo-editor-prompts) - editing, cleanup, and enhancement oriented prompt patterns.
+- [Awesome Nano Banana Pro prompts](https://github.com/cliprise/awesome-nano-banana-pro-prompts) - Gemini 3 Pro Image class prompts, text, and layout-heavy use cases.
+- [Awesome Seedream 5 prompts](https://github.com/cliprise/awesome-seedream-5-prompts) - Seedream-class image prompts for commercial visuals and still frames.
+<!-- CLIPRISE_LINKING_END -->
 
----
+<!-- CLIPRISE_FURTHER_READING_START -->
+## Further reading from Cliprise
 
+- [E-commerce photography operations (LinkedIn)](https://www.linkedin.com/pulse/how-e-commerce-brands-replacing-40000-annual-photography-j2kyf)
+- [AI product photos on Cliprise (Learn)](https://www.cliprise.app/learn/guides/getting-started/ai-product-photos-ecommerce-complete-guide)
+
+<!-- CLIPRISE_FURTHER_READING_END -->
 ## What this repository is
 
 This repository is a practical resource hub for users searching for:
